@@ -3,7 +3,7 @@ Hello players! Welcome to Gungi. A board game from Hunter x Hunter.
 
 The rules for this version of Gungi were originally detailed in
 [this tumblr post](https://mmmmalo.tumblr.com/post/74510568781/rules-of-gungi).
-This version does it's best to use these rules as much as possible. Any 
+This version does its best to use these rules as much as possible. Any 
 discrepancies will be highlighted below.
 
 Gungi takes place on a 9 by 9 square board. There are two players. By default
@@ -251,9 +251,42 @@ Tier 1:     Tier 2:     Tier 3:
 ### Back
 #### Pistol 
 ![Pistol move set](https://66.media.tumblr.com/f9a460af098f21df4778a823fdeaedbd/tumblr_inline_p7hqjeDqrm1r9k30q_500.png)
+```
+Tier 1:     Tier 2:     Tier 3:
+.....       .....       .....
+.X.X.       ..X..       ..X..
+..P..       .XPX.       .XPX.
+.X.X.       ..X..       ..X..
+.....       .....       .....
+```
+- No special abilities
 
 #### Pike 
-### Clandestinite 
+![Pike move set](https://64.media.tumblr.com/01d759b9aa0ccafb523bcc24baaafda5/tumblr_inline_p7hqjesz191r9k30q_500.png)
+```
+Tier 1:     Tier 2:     Tier 3:
+..X..       .....       .....
+..X..       .X.X.       .X.X.
+.XPX.       ..P..       ..P..
+..X..       .X.X.       .X.X.
+.....       .....       .....
+```
+- No special abilities
+
+#### Clandestinite 
+![Clandestinite move set](https://64.media.tumblr.com/8948dde3cd15a334b932e8303342b4bf/tumblr_inline_p7hqjeDrcS1r9k30q_500.png)
+```
+Tier 1:     Tier 2:     Tier 3:
+.X.X.       .X.X.       .X.X.
+.....       .X.X.       .X.X.
+..C..       ..C..       ..C..
+..X..       ..X..       ..X..
+.....       .....       XX.XX
+```
+
+- Able to jump over other pieces.
+- Has the ability **Land-Link**.
+
 #### Lance 
 #### Dragon King
 #### Phoenix
